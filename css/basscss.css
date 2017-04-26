@@ -1528,4 +1528,11 @@ a {
   width: 100%;
   height: 100%; }
 
+.img-16-9 {
+  height: 349px;
+  object-fit: cover; }
+
+.img-top-align {
+  object-position: 50% 0%; }
+
 /*# sourceMappingURL=basscss.css.map */
