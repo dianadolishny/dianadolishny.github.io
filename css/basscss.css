@@ -1532,6 +1532,9 @@ a {
   height: 349px;
   object-fit: cover; }
 
+.img-100-vh {
+  height: 100vh; }
+
 .img-top-align {
   object-position: 50% 0%; }
 
