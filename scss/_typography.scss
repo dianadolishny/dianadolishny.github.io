@@ -80,3 +80,14 @@ h1,h2,h3,h4,h5,h6{
   padding-left: 0;
   margin:0;
 }
+
+@if (variable-exists(breakpoints)) {
+  @each $bp-name, $bp-value in $breakpoints {
+    @media (min-width: $bp-value) {
+        .#{$bp-name}-left-align   { text-align: left }
+        .#{$bp-name}-center       { text-align: center }
+        .#{$bp-name}-right-align  { text-align: right }
+        .#{$bp-name}-justify      { text-align: justify }
+    }
+  }
+}
