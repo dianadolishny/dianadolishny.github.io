@@ -93,9 +93,8 @@ img {
 .img-text {
     position: absolute;
     top: 85.7%;
-    right: 8px;
+    // right: 8px;
     text-align: right;
-    float: right;
     @extend .py1;
     @extend .px3;
     background-color: $brand;

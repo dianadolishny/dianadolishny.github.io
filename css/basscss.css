@@ -7039,9 +7039,7 @@ img {
 .img-text {
   position: absolute;
   top: 85.7%;
-  right: 8px;
   text-align: right;
-  float: right;
   background-color: #a9c2cc;
   opacity: 0.85;
   color: white; }
