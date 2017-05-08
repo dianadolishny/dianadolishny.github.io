@@ -57,7 +57,7 @@
         {{#each project}}
         <div class="col lg-col-6 sm-col-12 px1 relative">
             <a href={{link}} id="item-link">
-                <img src="" data-src={{projectImg}} class="fit pb1 pt1 img-16-9 lazyload blur-up">
+                <img src={{smallerImg}} data-src={{projectImg}} class="fit pb1 pt1 img-16-9 lazyload blur-up">
                 <h3 class="img-text">{{name}}</h3>
             </a>
         </div>
@@ -85,18 +85,6 @@
     <script src="js/header.js" type="text/javascript"></script>
     <script src="js/main.js" type="text/javascript"></script>
     <script src="js/lazysizes.min.js" type="text/javascript"></script>
-
-    <!-- <script>
-        function init() {
-            var imgDefer = document.getElementsByTagName('img');
-            for (var i = 0; i < imgDefer.length; i++) {
-                if (imgDefer[i].getAttribute('data-src')) {
-                    imgDefer[i].setAttribute('src', imgDefer[i].getAttribute('data-src'));
-                }
-            }
-        }
-        window.onload = init;
-    </script> -->
 
 </body>
 

@@ -8,7 +8,8 @@ var context = {
     project: [{
         name: 'Ravenclaw Tower',
         link: 'projects/ravenclaw-tower.html',
-        projectImg: 'images/ravenclaw-tower/ravenclaw-tower-high-render-color-06.jpg'
+        projectImg: 'images/ravenclaw-tower/ravenclaw-tower-high-render-color-06.jpg',
+        smallerImg: 'images/ravenclaw-tower/smaller/ravenclaw-tower-high-render-color-06.jpg'
     }, {
         name: 'Morocan Baazar',
         link: 'projects/moroccan-bazaar.html',
