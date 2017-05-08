@@ -11,7 +11,7 @@ var context = {
         projectImg: 'images/ravenclaw-tower/ravenclaw-tower-high-render-color-06.jpg',
         smallerImg: 'images/ravenclaw-tower/smaller/ravenclaw-tower-high-render-color-06.jpg'
     }, {
-        name: 'Morocan Baazar',
+        name: 'Moroccan Bazaar',
         link: 'projects/moroccan-bazaar.html',
         projectImg: 'images/moroccan-bazaar/moroccan-bazaar-high-render-color-07.jpg',
         smallerImg: 'images/moroccan-bazaar/smaller/moroccan-bazaar-high-render-color-07.jpg'
@@ -36,7 +36,7 @@ var context = {
         projectImg: 'images/royal-albert/royal-albert-low-render-01.jpg',
         smallerImg: 'images/royal-albert/smaller/royal-albert-low-render-01.jpg'
     }, {
-        name: 'Rolls Royca',
+        name: 'Rolls Royce',
         link: 'projects/rollsroyce.html',
         projectImg: 'images/rolls-royce/rolls-royce-high-render-color-01.jpg',
         smallerImg: 'images/rolls-royce/smaller/rolls-royce-high-render-color-01.jpg'
