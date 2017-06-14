@@ -43,7 +43,7 @@ var context = {
     }, {
         name: 'Inside The Tardis',
         link: 'projects/tardis.html',
-        projectImg: 'images/tardis/tardis-high-render-color-01.jpg',
+        projectImg: 'images/tardis/tardis-render-10.jpg',
         smallerImg: 'images/tardis/smaller/tardis-high-render-color-01.jpg'
     }, {
         name: 'Harry Potter: Diagon Alley',
