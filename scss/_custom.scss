@@ -55,20 +55,20 @@ a {
 .img-top-align {
     object-position: 50% 0;
 }
-// img {
-//     animation-duration: 1.0s;
-//     animation-name: fadeInOnLoad;
-// }
-// @keyframes fadeInOnLoad {
-//     0%,
-//     50% {
-//         opacity: 0;
-//     }
-//
-//     100% {
-//         opacity: 1;
-//     }
-// }
+img {
+    animation-duration: 1.0s;
+    animation-name: fadeInOnLoad;
+}
+@keyframes fadeInOnLoad {
+    0%,
+    50% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
 
 .blur-up {
     -webkit-filter: blur(5px);
